@@ -14,16 +14,16 @@ People can use this online movie ticket reservation system to make purchasing mo
 
 # Features of Movie Ticket Booking System In PHP
 
--This system aims to implement a movie ticket booking system making use of a web front end and a MySQL backend.
+- This system aims to implement a movie ticket booking system making use of a web front end and a MySQL backend.
 -The system makes use of the combination of HTML, PHP, CSS, and Bootstrap 3/4 on the front end section.
--A sample of 5 movies is up in the project for booking as a sample.
--Each movie on the website has its own page with movie details and an option to make a booking.
--The website has a feature to book tickets in multiple theaters with multiple show timings that have been provided.
--Functionalities like user log in, user authentication, ticket cancellation, etc is also supported.
--All data of the system is stored safely onto tables in a MySQL server database.
--User can book tickets for movies in theaters
--User can select your favorite movie in your favorite theater page
--User can sell the booked tickets by publishing the ticket details on the website
--User can change the seat numbers even after confirming their booking
--Users can view posters, release date and some overview of the movies running in theaters within the website
--User can create online accounts if they like.
+- A sample of 5 movies is up in the project for booking as a sample.
+- Each movie on the website has its own page with movie details and an option to make a booking.
+- The website has a feature to book tickets in multiple theaters with multiple show timings that have been provided.
+- Functionalities like user log in, user authentication, ticket cancellation, etc is also supported.
+- All data of the system is stored safely onto tables in a MySQL server database.
+- User can book tickets for movies in theaters
+- User can select your favorite movie in your favorite theater page
+- User can sell the booked tickets by publishing the ticket details on the website
+- User can change the seat numbers even after confirming their booking
+- Users can view posters, release date and some overview of the movies running in theaters within the website
+- User can create online accounts if they like.
