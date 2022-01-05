@@ -12,7 +12,7 @@ People can use this online movie ticket reservation system to make purchasing mo
 
 3. Run the index.php file on your localhost
 
-# Features of Movie Ticket Booking System In PHP
+# Features of MovieDrive
 
 - This system aims to implement a movie ticket booking system making use of a web front end and a MySQL backend.
 - The system makes use of the combination of HTML, PHP, CSS, and Bootstrap 3/4 on the front end section.
