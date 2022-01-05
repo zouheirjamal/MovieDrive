@@ -6,8 +6,8 @@ People can use this online movie ticket reservation system to make purchasing mo
 
 # Installation steps:
 
-1. Upload the file in a Wamp/XAMPP Server
-2. Import the sql files into the serve database
+1. Upload the file in a WAMP/XAMPP Server
+2. Import the SQL files into the server's database
 3. Run the index.php file on your localhost
 
 # Features of MovieDrive
