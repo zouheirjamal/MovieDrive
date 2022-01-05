@@ -1,15 +1,13 @@
 # MovieDrive
 
-Movie Ticket Booking System is the final-year PHP project for the Software Engineering class. It serves the sole purpose of a booking system for movies. This software is developed using PHP, HTML, CSS, BOOTSTRAP, and MySQL. This project is a website where users can log in to the system and book the movie tickets online easily.
+Movie Ticket Booking System is the final-year PHP project for the Software Engineering class. It serves as a booking system for movies. This software is developed using PHP, HTML, CSS, BOOTSTRAP, and MySQL. This project is a website where users can log in to the system and book the movie tickets online easily.
 
 People can use this online movie ticket reservation system to make purchasing movie tickets more convenient, flexible, and efficient. People will no longer have to wait in large lines to purchase tickets at the theatre counters thanks to this system. Instead, people can sit at home and purchase the necessary tickets online. The user can book tickets using such software from anywhere and at any time using the internet. This system intends to give clients with the ability to book cinema tickets online and collect information about movies and theaters without having to visit the theaters.
 
 # Installation steps:
 
 1. Upload the file in a Wamp/XAMPP Server
-
 2. Import the sql files into the serve database
-
 3. Run the index.php file on your localhost
 
 # Features of MovieDrive
